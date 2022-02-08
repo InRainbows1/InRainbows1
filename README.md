@@ -5,6 +5,8 @@
 
 Email: con.shaw1@gmail.com
 
+https://stackoverflow.com/users/17865366/inrainbows
+
 LinkedIn: www.linkedin.com/in/connor-shaw-inrainbows
 
 <!---
