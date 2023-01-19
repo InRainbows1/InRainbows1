@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @InRainbows1
+- 👋 Hi, I’m Connor
 - 👀 I’m interested computers, games and food!
 - 🌱 I’m currently learning computer science via OSSU <a href="https://github.com/ossu/computer-science"><img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg"></a>
 - 📫 How to reach me;
